@@ -1,0 +1,17 @@
+.pringle {
+	float: left;
+	width: 50%;
+	margin: 15px;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+}
+
+body {
+	font-family: 'Georgia', serif;
+}
+
+.p2 {
+	clear: left;
+}
